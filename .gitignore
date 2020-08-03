@@ -1,0 +1,12 @@
+*.bin
+*.bim
+*.hrb
+*.img
+*.lib
+*.lst
+*.map
+*.obj
+*.sys
+OSCode/NewOS/.vscode
+OSCode/NewOS/.vs
+/OSCode/NewOS/Code/.vs
